@@ -50,3 +50,15 @@ li {
   text-decoration: line-through;
   color: gray;
 }
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+body.light {
+  background: #fff;
+  color: #000;
+}
+body.dark {
+  background: #222;
+  color: #eee;
+}
